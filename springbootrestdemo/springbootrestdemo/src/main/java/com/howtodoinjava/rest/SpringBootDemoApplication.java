@@ -1,1 +1,1 @@
-import org.springframework.beans.factory
+sample = src/main/java
